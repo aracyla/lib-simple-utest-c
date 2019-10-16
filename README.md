@@ -3,7 +3,7 @@
 This a simple unit test based on ( http://eradman.com/posts/tdd-in-c.html ) with the purpose of function testing(it's just a header with a couple of macro definitions to log the functions).
 
 ## Possible future implementations
-- The output into a log file;
+- Output into a log file;
 - Auto run mem-leak test(valgrind);
 - GDB debugger;
 - Makefile to run functions;
